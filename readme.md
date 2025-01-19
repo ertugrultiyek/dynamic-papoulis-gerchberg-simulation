@@ -1,6 +1,3 @@
-Here's a well-structured README.md for your GitHub repository, outlining the purpose, user manual, and other essential details for the System Identification Project with ROS2 and Gazebo. You can further customize the content as the project progresses and specifics are defined:
-
-```markdown
 # System Identification Project with ROS2 and Gazebo
 
 ## Purpose
@@ -108,5 +105,3 @@ Project Link: [https://github.com/yourusername/system-identification-ros2](https
 - [Velodyne Simulation](https://bitbucket.org/DataspeedInc/velodyne_simulator/src/master/)
 - [Xsens MTi ROS Driver](https://github.com/xsens/xsens_mti_ros_node)
 ```
-
-This README provides a comprehensive guide to setting up, running, and contributing to your system identification project, ensuring users have all the information they need to effectively use and collaborate on the project.
